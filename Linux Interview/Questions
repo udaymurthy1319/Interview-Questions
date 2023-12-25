@@ -1,5 +1,5 @@
 Based on my Understanding:
-**What is the Linux kernel?**
+_What is the Linux kernel?_
 Kernel is the Heart of Linux Operating System. Mainly it serves as bridge between Hardware and software components. It is responsible for managing system resources and porive core functionalties./
 Explain the difference between a soft link and a hard link? These are two types of links whoch allow multiple filename to be associated with same file or dir. there are some major difference
 Soft link: It is a Symbolic link, it is a seperate file, which contains a refrence to target file or dir. It is a pointer to another file.
